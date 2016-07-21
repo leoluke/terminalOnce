@@ -10,5 +10,7 @@ after force push 02
 
 160719 qa sub thread v10035
 
-160729 v10035 modify path load
+160720 v10035 modify path load
+
+160721 local manager bind 0.0.0.0 and winserver2003
 
