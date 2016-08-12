@@ -14,3 +14,5 @@ after force push 02
 
 160721 local manager bind 0.0.0.0 and winserver2003
 
+160812 v10037 sub thread add pm_raw period firetime to make relation between Parent and sub thread, support ribbon api url 
+
