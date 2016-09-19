@@ -18,4 +18,7 @@ after force push 02
 
 160901  v1.0.38_02 1.mux use thread, init processor with different condition
 
+160907  v1.0.39_01 1.funLimitTime stack 2.modify AppConfig null Exception.
+3.Jedis update
+
 
