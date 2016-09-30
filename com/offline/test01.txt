@@ -21,4 +21,5 @@ after force push 02
 160907  v1.0.39_01 1.funLimitTime stack 2.modify AppConfig null Exception.
 3.Jedis update
 
+160923  v1.0.40_01 1.recordBean change to recordMap 2.support Jedis 2.1.0
 
